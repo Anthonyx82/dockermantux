@@ -41,8 +41,8 @@ sudo apt install smartmontools jq curl rsync deborphan -y
 1. **Clona el repositorio**
 
 ```bash
-git clone https://github.com/tuusuario/mantenimiento-linux-docker.git
-cd mantenimiento-linux-docker
+git clone https://github.com/Anthonyx82/dockermantux.git
+cd dockermantux
 ```
 
 2. **Edita el archivo `.env`**
